@@ -106,7 +106,7 @@ Container orchestration tool for clustering and scheduling Docker containers. We
 Configuration files can be associated with specifc services inside `docker-compose`. They can be used to replace default configurations for a same image, and changes to them are reflected imediately inside the container, since the files are mapped to directories inside them.
 
 ```yml
-version: "3.8""
+version: "3.8"
 services:
   ...
   nginx:
