@@ -8,7 +8,7 @@ This repository contains notes taken from the lab classes.
 
 - [Docker](lab-docker.md)
 
-- [K3s](k3s-lab.md)
+- [K3s](lab-k3s.md)
 
 **Course:** Management of Computation Infrastructures (2023/2024).
 
